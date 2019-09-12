@@ -4,6 +4,6 @@ Assignment 2: Program that emulated a student database and had various sorting m
 
 Assignment 3; Zoo Tycoon type game that involved the use of OOP principles like Polymorphism and Inheritance.
 
-Assignment 4:
+Assignment 4: Small visual game that required the use of a gameboard and 2d vectors, again using OOP principles in more advanced ways.
 
 Assignment 5:
